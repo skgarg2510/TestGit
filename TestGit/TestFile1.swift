@@ -1,5 +1,5 @@
 //
-//  TestFile.swift
+//  TestFile1.swift
 //  TestGit
 //
 //  Created by Skgarg on 7/27/15.
@@ -7,5 +7,3 @@
 //
 
 import Foundation
-
-//Comment Added
